@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+/home/usuario/Escritorio/Ejercicio 3/.metadata/.plugins/org.eclipse.jdt.core
+1865797976.index
+2949097923.index
+1145757850.index
