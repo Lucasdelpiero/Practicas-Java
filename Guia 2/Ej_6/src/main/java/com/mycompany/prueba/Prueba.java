@@ -8,6 +8,7 @@ package com.mycompany.prueba;
 import java.util.Random;
 
 public class Prueba {
+
     
     public void simulaUso(Estacion estacion){
         int num;
