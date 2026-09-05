@@ -5,7 +5,7 @@
 package com.mycompany.prueba;
 
 
-public class CuentaBancaria {
+public abstract class CuentaBancaria {
     private String nombre;
     protected double saldo = 0;
 
