@@ -1,5 +1,8 @@
-com\mycompany\prueba\CajaDeAhorro.class
-com\mycompany\prueba\CuentaBancaria.class
-com\mycompany\prueba\CuentaUniversitaria.class
-com\mycompany\prueba\CuentaCorriente.class
+com\mycompany\prueba\Empleado.class
+com\mycompany\prueba\Sueldos.class
+com\mycompany\prueba\EmpleadoPermanente.class
+com\mycompany\prueba\EmpleadoTemporal.class
+com\mycompany\prueba\EmpleadoPermanente$Niveles.class
+com\mycompany\prueba\Departamento.class
+com\mycompany\prueba\Empresa.class
 com\mycompany\prueba\Prueba.class

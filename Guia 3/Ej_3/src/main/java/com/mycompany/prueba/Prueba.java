@@ -4,16 +4,25 @@
 
 package com.mycompany.prueba;
 
-// Para usar algo fuera del paquete hay que importar tal paquete
-// Publico: Se puede acceder de cualquier cosa que este dentro del paquete o lo importe
-// Protected: Lo pueden acceder la clase y los que la extienden mientras esten dentro o importen el paquete
-// Private: Solo puede accederse en la clase que la declara
-// Default: Solo los que esten en el paquete lo pueden acceder, los que lo importan no pueden
-
 
 public class Prueba {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        CajaDeAhorro ahorro = new CajaDeAhorro("Lucas");
+        CuentaCorriente corriente = new CuentaCorriente("Santi", 500);
+        CuentaUniversitaria universitaria = new CuentaUniversitaria("Martin");
+        
+        ahorro.depositar(1000);
+        ahorro.extraer(100);
+        ahorro.extraer(300);
+        ahorro.extraer(800);
+        
+        corriente.girarDescubierto(400);
+        corriente.girarDescubierto(200);
+        
+        universitaria.depositar(4000);
+        universitaria.extraer(800);
+        universitaria.extraer(500);
+        universitaria.extraer(200);
     }
 }
