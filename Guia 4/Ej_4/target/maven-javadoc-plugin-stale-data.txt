@@ -1,0 +1,42 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+--no-fonts
+-encoding
+'UTF-8'
+-protected
+--release
+26
+-sourcepath
+'C:/Users/cabro/OneDrive/Desktop/Progra C/Practicas/Guia 4/Ej_4/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2026. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/cabro/OneDrive/Desktop/Progra C/Practicas/Guia 4/Ej_4/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Prueba 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Prueba 1.0-SNAPSHOT API'
+com.mycompany.prueba
+C:\Users\cabro\OneDrive\Desktop\Progra C\Practicas\Guia 4\Ej_4\src\main\java = 1789734421102
+C:\Users\cabro\OneDrive\Desktop\Progra C\Practicas\Guia 4\Ej_4\target\reports\apidocs\allclasses-index.html = 1789762468479
+C:\Users\cabro\OneDrive\Desktop\Progra C\Practicas\Guia 4\Ej_4\target\reports\apidocs\allpackages-index.html = 1789762468492
+C:\Users\cabro\OneDrive\Desktop\Progra C\Practicas\Guia 4\Ej_4\target\reports\apidocs\element-list = 1789762468356
+C:\Users\cabro\OneDrive\Desktop\Progra C\Practicas\Guia 4\Ej_4\target\reports\apidocs\help-doc.html = 1789762468573
+C:\Users\cabro\OneDrive\Desktop\Progra C\Practicas\Guia 4\Ej_4\target\reports\apidocs\index-all.html = 1789762468548
+C:\Users\cabro\OneDrive\Desktop\Progra C\Practicas\Guia 4\Ej_4\target\reports\apidocs\index.html = 1789762468555
+C:\Users\cabro\OneDrive\Desktop\Progra C\Practicas\Guia 4\Ej_4\target\reports\apidocs\member-search-index.js = 1789762468501
+C:\Users\cabro\OneDrive\Desktop\Progra C\Practicas\Guia 4\Ej_4\target\reports\apidocs\module-search-index.js = 1789762468495
+C:\Users\cabro\OneDrive\Desktop\Progra C\Practicas\Guia 4\Ej_4\target\reports\apidocs\overview-tree.html = 1789762468445
+C:\Users\cabro\OneDrive\Desktop\Progra C\Practicas\Guia 4\Ej_4\target\reports\apidocs\package-search-index.js = 1789762468497
+C:\Users\cabro\OneDrive\Desktop\Progra C\Practicas\Guia 4\Ej_4\target\reports\apidocs\search.html = 1789762468551
+C:\Users\cabro\OneDrive\Desktop\Progra C\Practicas\Guia 4\Ej_4\target\reports\apidocs\tag-search-index.js = 1789762468503
+C:\Users\cabro\OneDrive\Desktop\Progra C\Practicas\Guia 4\Ej_4\target\reports\apidocs\type-search-index.js = 1789762468499
